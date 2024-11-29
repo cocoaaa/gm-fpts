@@ -1,0 +1,6 @@
+# ignore genric macox folders
+.DS_Store
+
+# ignore exp outputs
+outputs
+
